@@ -1,9 +1,9 @@
 export const userData = {
   nameUser: "Micaías Silva",
   githubUser: "micaias-silva",
-  linkedinUser: "https://www.linkedin.com/in/micaiassilva/",
+  linkedinUser: "micaiassilva",
   whatsappNumber: "+5582987131396",
-  emailUser: "micaiasilvaop@gmail.com",
+  emailUser: "pro.micaiassilva@gmail.com",
   instagramUser: "micaiassilva_",
   telegramUser: "oMicaiasSilva",
 };
